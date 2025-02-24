@@ -1,10 +1,9 @@
--👋 Hi, I’m @Jungling-cell!
--👀 I’m interested in data analysis, SQL, and business intelligence.
--🌱 I’m currently learning SQL, Tableau, and advanced data visualization techniques.
--💞️ I’m looking to collaborate on projects related to data analytics, dashboard design, and process optimization.
--📫 How to reach me: bj.jungling@yahoo.com
--😄 Pronouns: They/Them (or you can specify your preferred pronouns).
--⚡ Fun fact: I love discovering patterns in data and enjoy solving real-world problems with SQL and analytics tools!
+	•	👋 Hi, I’m @Jungling-cell, a certified Data Analyst!
+	•	👀 I have expertise in SQL, Tableau, and Business Intelligence, with a passion for turning data into actionable insights.
+	•	🌱 Continuously expanding my skills in advanced data visualization and analytics techniques.
+	•	💞️ Open to collaboration on projects related to data analytics, dashboard design, and process optimization.
+	•	📫 Reach me at: bj.jungling@yahoo.com
+	•	⚡ Fun fact: I love uncovering hidden patterns in data and using SQL & analytics tools to solve complex business challenges!
 
 <!---
 Jungling-cell/Jungling-cell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
